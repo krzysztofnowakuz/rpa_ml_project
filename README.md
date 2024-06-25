@@ -3,3 +3,5 @@ This repository was created for the project:
 Modele generatywne. Testowanie i analiza modeli." </br>
 Materials: https://drive.google.com/drive/folders/1pwj4uNd04zH11Sm4Fj6-aWCzhS5WZ-HA?usp=sharing </br>
 Contributors: Bartosz Ziemianin i Krzysztof Nowak </br>
+
+https://colab.research.google.com/drive/14YsMVdCjaSAtGtOlBwOodjU2CqifQC0p?usp=sharing
